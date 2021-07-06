@@ -72,7 +72,7 @@ The final report includes each of the following:
 
 ### Analysis
 Observable trends based on the data:
-1. The vast majority of in-game extras purchasers are male (84% Male, 14% Female). The male purchase value totaled $1,967.64 while female purchase value totaled only $361.94. However, On average each female player spent $4.47 while the average male player spent $4.07.
+1. The vast majority of in-game extras purchasers are male (84% Male, 14% Female). The male purchase value totaled $1,967.64 while female purchase value totaled only $361.94. However, on average each female player spent $4.47 while the average male player spent $4.07.
 2. Age range with the majority of purchases is ages 20-24, which comprised of 44.79% of all purchases. The next closes age ranges are ages 15-19 with 19.58% of purchases and ages 25-29 with 13.37% of purchases.
-3. The item that was purchased the most and also brought in the most revenue was the Final Critic (ID: 92), which was purchased 13 times and generated $59.99 in revenue.
+3. The item that was purchased the most, and also brought in the most revenue, was the 'Final Critic' (Item ID: 92), which was purchased 13 times and generated $59.99 in revenue, suggesting the majority of revenue comes from the variety of items and not one particular item.
 
